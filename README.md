@@ -17,9 +17,13 @@ SimpleApiServer — это минималистичный RESTful API серве
 
 🚀 Ключевые возможности
 📋 /api/tasks        → GET все задачи
+
 🔍 /api/tasks/1      → GET задача по ID  
+
 ➕ /api/tasks        → POST новая задача
+
 ✏️  /api/tasks/1      → PUT обновить задачу  
+
 🗑️  /api/tasks/1      → DELETE удалить задачу
 
 💡 Зачем это нужно?
