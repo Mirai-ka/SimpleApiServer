@@ -1,0 +1,4 @@
+C:\Users\CoordinatedTurn\SimpleApiServer\obj\Release\net9.0\win-x64\SimpleApiServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CoordinatedTurn\SimpleApiServer\obj\Release\net9.0\win-x64\SimpleApiServer.AssemblyInfoInputs.cache
+C:\Users\CoordinatedTurn\SimpleApiServer\obj\Release\net9.0\win-x64\SimpleApiServer.AssemblyInfo.cs
+C:\Users\CoordinatedTurn\SimpleApiServer\obj\Release\net9.0\win-x64\SimpleApiServer.csproj.CoreCompileInputs.cache

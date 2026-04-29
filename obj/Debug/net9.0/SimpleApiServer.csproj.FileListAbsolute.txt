@@ -1,0 +1,14 @@
+C:\Users\CoordinatedTurn\SimpleApiServer\bin\Debug\net9.0\SimpleApiServer.exe
+C:\Users\CoordinatedTurn\SimpleApiServer\bin\Debug\net9.0\SimpleApiServer.deps.json
+C:\Users\CoordinatedTurn\SimpleApiServer\bin\Debug\net9.0\SimpleApiServer.runtimeconfig.json
+C:\Users\CoordinatedTurn\SimpleApiServer\bin\Debug\net9.0\SimpleApiServer.dll
+C:\Users\CoordinatedTurn\SimpleApiServer\bin\Debug\net9.0\SimpleApiServer.pdb
+C:\Users\CoordinatedTurn\SimpleApiServer\obj\Debug\net9.0\SimpleApiServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CoordinatedTurn\SimpleApiServer\obj\Debug\net9.0\SimpleApiServer.AssemblyInfoInputs.cache
+C:\Users\CoordinatedTurn\SimpleApiServer\obj\Debug\net9.0\SimpleApiServer.AssemblyInfo.cs
+C:\Users\CoordinatedTurn\SimpleApiServer\obj\Debug\net9.0\SimpleApiServer.csproj.CoreCompileInputs.cache
+C:\Users\CoordinatedTurn\SimpleApiServer\obj\Debug\net9.0\SimpleApiServer.dll
+C:\Users\CoordinatedTurn\SimpleApiServer\obj\Debug\net9.0\refint\SimpleApiServer.dll
+C:\Users\CoordinatedTurn\SimpleApiServer\obj\Debug\net9.0\SimpleApiServer.pdb
+C:\Users\CoordinatedTurn\SimpleApiServer\obj\Debug\net9.0\SimpleApiServer.genruntimeconfig.cache
+C:\Users\CoordinatedTurn\SimpleApiServer\obj\Debug\net9.0\ref\SimpleApiServer.dll
